@@ -27,8 +27,8 @@ To write a program to implement the multivariate linear regression model for sal
 ```
 /*
 Program to implement the multivariate linear regression model for sales prediction.
-Developed by: P.Siva Naga Nithin
-RegisterNumber: 212221240037
+Developed by: P.SYAM TEJ
+RegisterNumber: 212221240056
 import pandas as pd
 import matplotlib.pyplot as plt
 df = pd.read_csv('Advertising.csv')
@@ -56,7 +56,7 @@ l.predict([[150.3,240.5,234.5]])
 ```
 
 ## Output:
-![github](adv.png)
+![github](m3.png)
 
 ## Result:
 Thus the program to implement the multivariate linear regression model for sales prediction is written and verified using python programming.
